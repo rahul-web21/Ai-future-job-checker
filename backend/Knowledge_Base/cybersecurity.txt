@@ -1,0 +1,17 @@
+Cybersecurity professionals protect systems from threats.
+
+AI Impact:
+- AI improves threat detection
+- Automates monitoring and alerts
+
+Tasks at Risk:
+- Manual log analysis
+- Rule-based detection
+
+Future-Proof Skills:
+- Threat modeling
+- Incident response
+- Security architecture
+
+Outlook:
+Cybersecurity roles remain highly resilient due to increasing threats.

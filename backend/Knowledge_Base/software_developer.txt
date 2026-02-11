@@ -1,0 +1,21 @@
+Software developers build, maintain, and improve software systems.
+
+AI Impact:
+- Automates repetitive coding tasks
+- Assists with debugging and test generation
+- Speeds up development using code assistants
+
+Tasks at Risk:
+- Boilerplate coding
+- Simple CRUD applications
+- Manual testing
+
+Future-Proof Skills:
+- System design
+- Problem-solving
+- Code review
+- AI-assisted development
+- Cloud and distributed systems
+
+Outlook:
+Software development will evolve, not disappear. Developers who adapt to AI tools will remain in high demand.

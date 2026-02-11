@@ -1,0 +1,20 @@
+Data analysts interpret data to support business decisions.
+
+AI Impact:
+- Automates basic reporting
+- Generates insights automatically
+- Reduces manual data cleaning
+
+Tasks at Risk:
+- Simple dashboard creation
+- Basic SQL queries
+- Repetitive reporting
+
+Future-Proof Skills:
+- Business understanding
+- Data storytelling
+- Advanced analytics
+- AI interpretation skills
+
+Outlook:
+Data analysts must focus on decision-making and insight communication to stay relevant.

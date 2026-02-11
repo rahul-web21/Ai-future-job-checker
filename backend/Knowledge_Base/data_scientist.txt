@@ -1,0 +1,19 @@
+Data scientists build predictive models and analyze complex datasets.
+
+AI Impact:
+- AutoML simplifies model building
+- Faster experimentation
+- Automated feature engineering
+
+Tasks at Risk:
+- Basic model training
+- Standard ML pipelines
+
+Future-Proof Skills:
+- Problem framing
+- Model evaluation
+- Domain expertise
+- Ethical AI
+
+Outlook:
+Data scientists will move towards higher-level decision intelligence roles.

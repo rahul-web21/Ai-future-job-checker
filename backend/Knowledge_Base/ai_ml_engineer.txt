@@ -1,0 +1,18 @@
+AI/ML engineers deploy and scale machine learning systems.
+
+AI Impact:
+- Improved tooling for training and deployment
+- Faster experimentation cycles
+
+Tasks at Risk:
+- Manual model tuning
+- Repetitive training tasks
+
+Future-Proof Skills:
+- MLOps
+- System scalability
+- Model monitoring
+- Responsible AI
+
+Outlook:
+AI/ML engineers are among the most future-secure roles.
